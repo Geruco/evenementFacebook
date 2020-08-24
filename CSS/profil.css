@@ -1,0 +1,6 @@
+.commentary {
+    border: 1px solid black
+}
+.commentaryHeader{
+    display: flex;
+}

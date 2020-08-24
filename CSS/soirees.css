@@ -1,0 +1,12 @@
+.partyDiv{
+    border: 1px solid black;
+}
+.partyHeader{
+    display: flex;
+}
+.partyFooter a{
+    margin: 3%;
+}
+.icone{
+    height: 35px;
+}
